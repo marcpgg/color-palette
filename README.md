@@ -4,11 +4,11 @@ Python script to find most dominant colors in any image, using k-means clusterin
 
 Examples:
 
-!['Florida']('/images/florida.jpeg')
-!['Palette Florida']('/images/Figure_florida.png')
+![Florida](/images/florida.jpeg)
+![Palette Florida](/images/Figure_florida.png)
 
-!['Her']('/images/her2.jpg')
-!['Palette Her']('/images/Figure_her2.png')
+!['Her'](/images/her2.jpg)
+!['Palette Her'](/images/Figure_her2.png)
 
 
 
