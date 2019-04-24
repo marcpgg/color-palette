@@ -1,6 +1,7 @@
 # Color-Clustering
 
-Python script to find most dominant colors in any image, using k-means clustering.
+Notebook to find most dominant colors in any image, using k-means clustering.
+If notebook does not render on github, use this [NBviewer link](nbviewer.org).
 
 Examples:
 
@@ -12,8 +13,8 @@ Examples:
 
 
 
-
-The script basically clusters the pixel intensities of an RGB image. Given an image with _MxN_ pixels, each consisting of three components: Red, Green, and Blue respectively. Pixels that belong to a given cluster will be more similar in color than pixels belonging to a separate cluster.
+Applying Kmeans clustering to each pixel intensities of an RGB image.  
+Pixels that belong to a given cluster will be closer to their 0-255 RGB value, thus will be similar in color.
 
 
 
