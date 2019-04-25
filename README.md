@@ -1,7 +1,7 @@
 # Color-Clustering
 
 Notebook to find most dominant colors in any image, using k-means clustering.
-If notebook does not render on github, use this [NBviewer link](nbviewer.org).
+If notebook does not render on github, use this [NBviewer link](https://nbviewer.jupyter.org/github/marcpgg/color-palette/blob/master/colorPalette.ipynb).
 
 Examples:
 
@@ -21,5 +21,5 @@ Pixels that belong to a given cluster will be closer to their 0-255 RGB value, t
 ## Requirements
 * Python 3
 * OpenCV
-* matplotlib
-* sklearn
+* Matplotlib
+* scikit-learn
