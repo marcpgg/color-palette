@@ -1,20 +1,18 @@
 # Color-Clustering
 
-Notebook to find most dominant colors in any image, using k-means clustering.
+Finding most dominant colors in an image
+ 
+Applying Kmeans clustering to each pixel color intensities of an RGB image.  
+Pixels that belong to a given cluster will be closer to the cluster's 0-255 RGB values, thus will be similar in color. Pixels belonging to each cluster are quantified and plotted in a horizontal stacked histogram.
+
+
 If notebook does not render on github, use this [NBviewer link](https://nbviewer.jupyter.org/github/marcpgg/color-palette/blob/master/colorPalette.ipynb).
 
-Examples:
 
-![Florida](/images/florida.jpeg)
-![Palette Florida](/images/Figure_florida.png)
-
-!['Her'](/images/her2.jpg)
-!['Palette Her'](/images/Figure_her2.png)
+#### Example:
 
 
-
-Applying Kmeans clustering to each pixel intensities of an RGB image.  
-Pixels that belong to a given cluster will be closer to their 0-255 RGB value, thus will be similar in color.
+![Palette Florida](/images/example-palette.png)
 
 
 
